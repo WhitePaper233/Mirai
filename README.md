@@ -1,0 +1,2 @@
+# Mirai
+My blog project.
